@@ -6,7 +6,7 @@ spring:
       driver-class-name: org.mariadb.jdbc.Driver
       url: jdbc:mysql://192.168.0.69:3307/webdb?characterEncoding=utf8
       username: webdb
-      password: 'AQB5zAMNtpJR26DYkdEWR3mpzz9wUAc2u1RbdVDrO0SFzpSPTrK25chC4653VuQswm2bpomvNt9qevIJQtDjJbnkZbJ28fugaHH6G6iwrp7Uknu9H9G9Qpo7PaSumhiRIo5+WtJQdiLeZeaJJGFeTvfD9wWNuO9AY9Xys3Kaq801F/YdPP9N2NQsKQM6OOw4DejQdRl+GsjQUQxqV7ogXLJRNVqc7maFwTYlDiFOW/ZSg2gUJ+mZPZz05hnj85AMpidDQ6wU7ERigtxnMFYrfjeW5BJiGMKzBUEWF5kMNNyyryZulYGFLjB0WeRyyyhDXto4kxlpYdKLao+5uYNV2xCVi0JCtkVTPGCMOnRq0lZPP4S/fzFTPh+fadwCbUBMe2Q='
+      password: '{cipher}AQCUnGr6/+DXnqcq8oqk/jnr1Glg2oHnfGnRbGXNQI8zDpU7FG9ZbDQxsSv2OFcBH72Yy/PlpsHh+7F7kyJ13iQfV4SZzT7ZpCZ2uVRH8NoajOf67GptwS8EvVJdwt2OkRo2s573ESVmr4tYK7nhP5PA3G3iLp16C0Th+HwZf+tgUixewB+D0IdmoslsEcg6vviOMSgc1RxpaqZ6nX7KNOQKwK74nHDpQO82h2h0wrQ+7ngVDWehwfp7TT/mAml66O0Vms81RssLhtA3td3+GSY2IfJmNYdSw9a7IUdW6fX8Z5ziibwlcaMBCzWgEW6PN6LCbua1WX332LEB5C7FwdRLp58uvnj8zeF+koa7yAy0Z9Ww3vEnpQPLSpK4F4qa3Ug='
 mybatis:
    config-location: classpath:mybatis/configuration.xml
 eureka:
